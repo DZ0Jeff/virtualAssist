@@ -1,0 +1,14 @@
+# pycharm addons
+
+.idea
+# custom database
+
+db.sqlite3
+sentence_tokenizer.pickle
+
+#dependencies
+
+venv/lib/cls
+.venv
+venv/
+ENV
